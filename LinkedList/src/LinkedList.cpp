@@ -6,7 +6,7 @@ Node::Node()
     cargo = 0;
     next = nullptr;
 }
-
+//Testing
 Node::Node(int cargo)
 {
     this->cargo = cargo;
